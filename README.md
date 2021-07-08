@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Dahks
+- 👀 I’m interested in computers and art
+- 🌱 I’m currently learning a variety of things, mostly involving computers
+- 💞️ I’m looking to collaborate on seomthing fun!
+- 📫 How to reach me: A comment :D
