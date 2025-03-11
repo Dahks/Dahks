@@ -2,6 +2,4 @@
 
 💻 Coding Since 2016 → Started with competitive programming on HackerRank, moved into web development, and now exploring scientific computing & applied computer science.
 
-🔍 This GitHub hosts my public projects, experiments, and contributions — feel free to explore!
-
-📩 Got questions or feedback? Feel free to reach out! 😊
+🔍 This GitHub hosts my public projects, experiments, and contributions
